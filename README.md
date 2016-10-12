@@ -1,0 +1,2 @@
+# KKPlaceholderTextView
+继承于UITextView的自定义TextView, 带placeholder和可限制最大输入字符数
